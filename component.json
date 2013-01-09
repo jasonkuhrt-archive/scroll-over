@@ -1,0 +1,22 @@
+{
+  "name": "scroll-position",
+  "repo": "jasonkuhrt/scroll-position",
+  "description": "Fire events when elements enter or exit the viewport",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/emitter": "*",
+    "tomerdmnt/offset": "*",
+    "timoxley/to-array": "*",
+    "timoxley/throttle": "*",
+    "avetisk/defaults": "*",
+    "component/assert": "*",
+    "component/enumerable": "*",
+    "timoxley/offset": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
